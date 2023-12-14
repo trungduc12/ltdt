@@ -1,0 +1,37 @@
+D:\VS Project\FordBell\FordBell\bin\Debug\FordBell.exe
+D:\VS Project\FordBell\FordBell\bin\Debug\FordBell.pdb
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.Form1.resources
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.Properties.Resources.resources
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.exe
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.pdb
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.Nhapmatran.resources
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.suamatran.resources
+D:\VS Project\FordBell\FordBell\obj\x86\Debug\FordBell.About.resources
+C:\Users\iaT\Desktop\Source code\FordBell\bin\Debug\FordBell.exe.config
+C:\Users\iaT\Desktop\Source code\FordBell\bin\Debug\FordBell.exe
+C:\Users\iaT\Desktop\Source code\FordBell\bin\Debug\FordBell.pdb
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.csproj.AssemblyReference.cache
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.About.resources
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.Form1.resources
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.Nhapmatran.resources
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.Properties.Resources.resources
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.suamatran.resources
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.csproj.GenerateResource.cache
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.csproj.CoreCompileInputs.cache
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.exe
+C:\Users\iaT\Desktop\Source code\FordBell\obj\x86\Debug\FordBell.pdb
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.csproj.AssemblyReference.cache
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.Form1.resources
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.Nhapmatran.resources
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.Properties.Resources.resources
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.suamatran.resources
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.csproj.GenerateResource.cache
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.exe
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\obj\x86\Debug\FordBell.pdb
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\bin\Debug\FordBell.exe.config
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\bin\Debug\FordBell.exe
+C:\Users\TRUNG DUC\Downloads\Source code-20231130T023322Z-001\Source code\FordBell\bin\Debug\FordBell.pdb
